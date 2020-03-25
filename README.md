@@ -56,7 +56,7 @@ Out
     X = melbourne_data[melbourne_features]
     X.describe()
 
-![Intro%20to%20Machine%20Learning/Screenshot_2020-03-25_at_5.21.29_PM.png](Intro%20to%20Machine%20Learning/Screenshot_2020-03-25_at_5.21.29_PM.png)
+![](~/Image/img01.png)
 
     X.head()
 
