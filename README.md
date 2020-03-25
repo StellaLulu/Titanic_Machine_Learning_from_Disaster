@@ -56,11 +56,11 @@ Out
     X = melbourne_data[melbourne_features]
     X.describe()
     
-![](image/img01.png)
+<p align="center"><img width=70% height =70% src="image/img01.png"></p>
 
     X.head()
 
-![](image/img02.png)
+<p align="center"><img width=70% height =70% src="image/img02.png"></p>
 
 ### Step 3 - Specify and Fit Model
 
