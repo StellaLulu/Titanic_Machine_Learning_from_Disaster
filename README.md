@@ -74,7 +74,7 @@ The steps to building and using a model are:
 - **Predict:** Just what it sounds like
 - **Evaluate**: Determine how accurate the model's predictions are.
 
-    from sklearn.tree import DecisionTreeRegressor
+    ```from sklearn.tree import DecisionTreeRegressor
     
     # Define model. Specify a number for random_state to ensure same results each run
     melbourne_model = DecisionTreeRegressor(random_state=1)
@@ -86,7 +86,7 @@ The steps to building and using a model are:
                           max_leaf_nodes=None, min_impurity_decrease=0.0,
                           min_impurity_split=None, min_samples_leaf=1,
                           min_samples_split=2, min_weight_fraction_leaf=0.0,
-                          presort=False, random_state=1, splitter='best')
+                          presort=False, random_state=1, splitter='best')```
 
 `random_state` : specify a number to get the same result in each run (can be any number)
 
