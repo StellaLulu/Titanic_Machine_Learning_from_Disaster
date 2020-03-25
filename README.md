@@ -55,12 +55,12 @@ Out
     melbourne_features = ['Rooms', 'Bathroom', 'Landsize', 'Lattitude', 'Longtitude']
     X = melbourne_data[melbourne_features]
     X.describe()
-
-![](~/Image/img01.png)
+    
+![](image/img01.png)
 
     X.head()
 
-![Intro%20to%20Machine%20Learning/Untitled.png](Intro%20to%20Machine%20Learning/Untitled.png)
+![](image/img02.png)
 
 ### Step 3 - Specify and Fit Model
 
