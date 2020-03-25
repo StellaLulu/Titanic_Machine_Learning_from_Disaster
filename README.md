@@ -149,7 +149,7 @@ The steps to building and using a model are:
 
     - Refer to deeplearning.ai, in this note we focus on how to code it
 
-        from sklearn.model_selection import train_test_split
+        ```from sklearn.model_selection import train_test_split
         
         # split data into training and validation data, for both features and target
         # The split is based on a random number generator. Supplying a numeric value to
@@ -163,9 +163,9 @@ The steps to building and using a model are:
         
         # get predicted prices on validation data
         val_predictions = melbourne_model.predict(val_X)
-        print(mean_absolute_error(val_y, val_predictions))
+        print(mean_absolute_error(val_y, val_predictions))```
 
-        259556.7211103938
+        ```259556.7211103938```
 
     # 5. Underfitting and Overfitting
 
