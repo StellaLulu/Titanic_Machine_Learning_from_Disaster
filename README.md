@@ -8,7 +8,7 @@
     *  [Step 3 - Specify and Fit Model](#Step-3---Specify-and-Fit-Model)
 [4. What is Model Validation](#4.-What-is-Model-Validation)
 [5. Underfitting and Overfitting](#5.-Underfitting-and-Overfitting)
-    *  [Function: Get Mean Absolute Error](#Function:-Get-Mean-Absolute-Error)
+    *  [Function:-Get Mean Absolute Error](#Function:-Get-Mean-Absolute-Error)
     *  [Step 1 - Compare Different Tree Sizes](#Step-1---Compare-Different-Tree-Sizes)
     *  [Step 2 - Fit Model Using All Data](#Step-2---Fit-Model-Using-All-Data)
 
@@ -218,7 +218,7 @@ The steps to building and using a model are:
     from learntools.machine_learning.ex5 import *
     print("\nSetup complete")
 
-### Get Mean Absolute Error
+### Function: Get Mean Absolute Error
 
 - `DecisionTreeRegressor` has one more attribute `max_leaf_nodes=max_leaf_nodes`
 
