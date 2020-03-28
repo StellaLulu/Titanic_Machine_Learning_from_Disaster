@@ -6,11 +6,13 @@
     *  [Step 1 - Select The Prediction Target](#Step-1---Select-The-Prediction-Target)
     *  [Step 2 - Create X](#Step-2---Create-X)
     *  [Step 3 - Specify and Fit Model](#Step-3---Specify-and-Fit-Model)
+    
 [4. What is Model Validation](#4.-What-is-Model-Validation)
+
 [5. Underfitting and Overfitting](#5.-Underfitting-and-Overfitting)
-    *  [Function:-Get Mean Absolute Error](#Function:-Get-Mean-Absolute-Error)
-    *  [Step 1 - Compare Different Tree Sizes](#Step-1---Compare-Different-Tree-Sizes)
-    *  [Step 2 - Fit Model Using All Data](#Step-2---Fit-Model-Using-All-Data)
+*  [Function:-Get Mean Absolute Error](#Function:-Get-Mean-Absolute-Error)
+*  [Step 1 - Compare Different Tree Sizes](#Step-1---Compare-Different-Tree-Sizes)
+*  [Step 2 - Fit Model Using All Data](#Step-2---Fit-Model-Using-All-Data)
 
 
 ## 3. Your First Machine Learning Model
