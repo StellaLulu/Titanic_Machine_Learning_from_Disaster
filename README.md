@@ -16,7 +16,7 @@
 
 [6. Random Forests](#6.-Random-Forests)
 
-[7. Exercise: Machine Learning Competitions](#7.-Exercise:-Machine-Learning-Competitions)
+[7. Exercise - Machine Learning Competitions](#7.-Exercise---Machine-Learning-Competitions)
 *  [Model built for training set](#Model-built-for-training-set)
 *  [Build a Random Forest model for all X and Y](#Build-a-Random-Forest-model-for-all-X-and-Y)
 
